@@ -1,0 +1,16 @@
+body {
+    font-family: Arial;
+    background-image: url(download.jfif);
+}
+
+h1, h2 {
+    color:maroon
+}
+
+ul li a {
+    color:black
+
+}
+ol li a {
+    color:rgba(61, 252, 14, 0.925)
+}

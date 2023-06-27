@@ -1,0 +1,21 @@
+FlexBox(Flexibe Box Module):
+Model layout 1 dimensi yang dapat mengatur jarak dan penjajaran anatara item dalam sebuah container.
+Main Axis:urutan yang mau di atur secara horizontal.
+Cross Axis:mengubah urutan menjadi vertikal.
+Main Size:ukuran dari container.
+Cross Size:ukuran dari colum.
+Main Start & Main End:urutan item dari vertikal.
+Cross Start & Cross End:urutan item dari horizontal.
+
+PROPERTY Untuk Container:
+Diplay.
+Flex-Direction.
+Flex-Wrap.
+Justify-Content.
+Align-Items.
+Align-Content.
+
+PROPERTY Untuk ITEMS:
+Order.
+Flex-Grow.
+Align-Self.

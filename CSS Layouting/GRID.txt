@@ -1,0 +1,25 @@
+CSS GRID:Modul CSS baru untuk mendefinisikan sistem layout berbentuk GRID dalam 2 dimensi (baris & kolom).
+
+PROPERTY GRID:
+Dispaly.
+Template To Colom.
+Area.
+Template To Row.
+Colum
+Templet To Areas
+Row.
+Auto Flow.
+Rows Start.
+Auto Colum.
+Colum End.
+Colum Start.
+
+Terminologi CSS GRID:
+Grid container.
+Grid item.
+Grid line.
+Grid cell.
+Grid area.
+Grid track.
+Grid gap.
+

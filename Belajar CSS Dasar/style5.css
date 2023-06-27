@@ -1,0 +1,33 @@
+.Hello:hover  {
+        font-style: arial;
+        font-size: 20px;
+        color:red
+}
+
+.Hello:link {
+    color: orange;
+}
+
+li:first-child  a {
+    color:aqua
+}
+
+li:last-child a {
+    color:blue
+}
+
+li:nth-child(5) a {
+    color:burlywood
+}
+
+li:nth-child(2n) a {
+    color:green
+}
+
+li:nth-child(1) a:hover {
+    color:red
+}
+    
+p:last-of-type {
+    color:cyan
+}
